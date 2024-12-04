@@ -15,5 +15,5 @@
 
 ## 📥 Installation
 
-1. Install the last APK from https://drive.google.com/drive/folders/1EmO-6sULB-bquPrRFXYLE6x-gP9cCA6W?usp=sharing
+1. Install the last APK from ![here](https://drive.google.com/drive/folders/1EmO-6sULB-bquPrRFXYLE6x-gP9cCA6W?usp=drive_link)
 3. Use your volume buttons to count up or down
