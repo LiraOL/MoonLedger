@@ -9,7 +9,7 @@
 ## 📷 Screenshots
 
 ![Screenshot 1](https://github.com/LiraOL/MoonLedger/blob/master/Vista%20inicio.jpeg)
-![Screenshot 2](https://drive.google.com/file/d/1BvA7xX7kj99WMc0arNX4vBWMWGaODbW2/view?usp=drive_link)
+![Screenshot 2](https://github.com/LiraOL/MoonLedger/blob/master/Vista%20aplicacion.jpeg)
 
 ---
 
